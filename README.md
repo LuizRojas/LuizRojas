@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuizRojas
 - 👀 I’m interested in progress
-- 🌱 I’m currently learning about c/c++ language
-- 💞️ I’m looking to collaborate on Google 
+- 🌱 I’m currently learning about Java language
+- 💞️ I’m looking to collaborate as data scientist
 - 📫 How to reach me luizfrojas@gmail.com
 
 <!---
