@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @LuizRojas
-- 👀 I’m interested in progress
-- 📱 I’m currently learning about TKinter
-- 💾 I’m looking to collaborate as data scientist
-- 📫 How to reach me luizfrojas@gmail.com
+Learning about DDoS mitigation
+Searching about "Using IA in DDoS mitigation attacks"
