@@ -1,54 +1,28 @@
-<h1 align="center">🌐 Network Security & AI-driven Defense</h1>
+# Hi, I'm Luiz Rojas 👋
 
-<p align="center">
-  Passionate about building smarter defenses for a safer internet.
-</p>
+## 🙋‍♂️ About Me
 
----
+I am a passionate developer from [Serra - ES, Brasil] diving into the world of Web3 and decentralized technologies. I'm currently learning about Ethereum development and I'm excited about the potential of building a more open and transparent internet.
 
-## 🛡️ Focus Areas
+* 🔭 I’m currently working on my first steps in the Ethereum ecosystem.
+* 🌱 I’m currently learning Solidity, smart contracts, and decentralized application architecture.
+* 💬 Ask me about the basics of blockchain.
+* 📫 How to reach me: luizfrojas@gmail.com.
 
-- **DDoS Attacks**
-  - Study of volumetric, protocol-based, and application-layer attacks
-  - Analysis of attack patterns and vectors used by modern botnets
+## 💻 My Interests as a Web3 Developer
 
-- **Defensive Techniques**
-  - Traditional countermeasures like rate limiting, IP blacklisting, and traffic filtering
-  - Exploration of cloud-based and hybrid mitigation strategies
+I am particularly interested in:
 
-- **AI-Powered Mitigation**
-  - Research on how Machine Learning can detect and classify DDoS attacks in real time
-  - Experimenting with anomaly detection, supervised learning models, and traffic analysis
-  - Investigating ways to reduce false positives and improve detection accuracy
+* **Smart Contract Security:** Understanding how to write secure and robust code for the blockchain.
+* **DeFi (Decentralized Finance):** Exploring how financial systems can be rebuilt on decentralized principles.
+* **DAOs (Decentralized Autonomous Organizations):** Fascinated by new models of governance and community collaboration.
 
----
+## 🚀 My Goals in Web3
 
-## 🧠 Ongoing Research
+My main goal is to become a proficient smart contract developer. In the near future, I aim to:
 
-Currently involved in academic research focused on:
-- The **application of Artificial Intelligence in the mitigation of DDoS attacks**
-- Creating intelligent systems capable of **learning attack behaviors** and adapting defenses dynamically
-
-This includes:
-- Dataset analysis and preprocessing (e.g., CICIDS, NSL-KDD)
-- Building classification models to differentiate normal and malicious traffic
-- Evaluating the trade-off between detection performance and computational cost
+1.  Contribute to an open-source Web3 project.
+2.  Build and deploy my own decentralized application (dApp).
+3.  Join a community or a team that is building innovative solutions on Ethereum.
 
 ---
-
-## 🚀 Learning & Development
-
-- Deepening my knowledge in:
-  - **Cybersecurity**
-  - **Computer Networks**
-  - **Machine Learning**
-  - **Python for security tools and AI models**
-
-- Always looking to collaborate on open-source projects, research papers, or proof-of-concept tools in the field of **network defense**.
-
----
-
-## 📫 Let's Connect
-
-If you're working on anything related to AI in cybersecurity, feel free to reach out — let's build something meaningful together.
-
